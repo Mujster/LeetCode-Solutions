@@ -21,6 +21,3 @@ int strStr(string haystack, string needle) {
 }
 };
 
-int main(){
-    
-}
